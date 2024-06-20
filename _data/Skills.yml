@@ -4,24 +4,33 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
     description: "
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='25' alt='python logo' />
+      <img width='15' />
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg' height='25' alt='dart logo' />
+    "
+  - title: Markup Languages
+    description: "
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' height='25' alt='html5 logo' />
       <img width='15' />
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' height='25' alt='css3 logo' />
-      <img width='15' />
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='25' alt='python logo' />
-      <img width='15' />
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg' height='25' alt='androidstudio logo' />
-      <img width='15' />
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg' height='25' alt='dart logo' />
-      <img width='15' />
+    "
+  - title: Typesetting Systems
+    description: "
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg' height='25' alt='latex logo' />
     "
   - title: Frameworks
     description: "
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' height='25' alt='django logo' />
       <img width='15' />
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' height='25' alt='firebase logo' />
-      <img width='15' />
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' height='25' alt='flutter logo' />
+      <img width='15' />
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg' height='25' alt='tailwindcss logo' />
+    "
+  - title: Tools
+    description: "
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg' height='25' alt='androidstudio logo' />
+      <img width='15' />
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' height='25' alt='firebase logo' />
       <img width='15' />
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' height='25' alt='figma logo' />
       <img width='15' />
@@ -29,15 +38,13 @@ contents:
       <img width='15' />
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg' height='25' alt='jupyter logo' />
       <img width='15' />
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg' height='25' alt='latex logo' />
-      <img width='15' />
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' height='25' alt='mysql logo' />
-      <img width='15' />
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' height='25' alt='postgresql logo' />
-      <img width='15' />
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg' height='25' alt='tailwindcss logo' />
-      <img width='15' />
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' height='25' alt='vscode logo' />
       <img width='15' />
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg' height='25' alt='xd logo' />
+    "
+  - title: Databases
+    description: "
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' height='25' alt='mysql logo' />
+      <img width='15' />
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' height='25' alt='postgresql logo' />
     "
