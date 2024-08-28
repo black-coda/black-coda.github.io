@@ -5,7 +5,7 @@ contents:
   - title: Programming Languages
     description: "
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg' height='25' alt='dart logo' />
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='25' alt='python logo' />
     "
   - title: Markup Languages
     description: "
@@ -25,12 +25,6 @@ contents:
       <img width='15' />
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg' height='25' alt='tailwindcss logo' />
     "
-  - title: Databases
-    description: "
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' height='25' alt='mysql logo' />
-      <img width='15' />
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' height='25' alt='postgresql logo' />
-    "
   - title: Tools
     description: "
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg' height='25' alt='androidstudio logo' />
@@ -49,7 +43,12 @@ contents:
       <img width='15' />
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg' height='25' alt='postman logo' />
       <img width='15' />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />    
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' height='25' alt='github logo' />
       <img width='15' />
     "
-
+  - title: Databases
+    description: "
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' height='25' alt='mysql logo' />
+      <img width='15' />
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' height='25' alt='postgresql logo' />
+    "
