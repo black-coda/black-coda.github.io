@@ -2,20 +2,25 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "JF-SM Solver Flutter Desktop App for LMM Analysis and ODE Solving ([https://github.com/black-coda/JFSM-Solver-fyp](https://github.com/black-coda/JFSM-Solver-fyp))"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - LMM Analysis: Comprehensive tools for analyzing Linear Multistep Methods, providing insights into their stability and performance
+      - ODE Solver: Efficient algorithms to solve ODEs, accommodating both stiff and non-stiff equations
+      - User-Friendly Interface: Intuitive interface built with Flutter, ensuring a seamless user experience
+      - Cross-Platform Compatibility: Designed for Windows with potential for expansion to other platforms
+    image: "![](assets/img/solver.png)" # Update the image link if needed
+  - title: "MyGender - Your Personal Menstrual Health & Education Companion ([https://chatgpt.com/c/bb3b4447-49da-47e5-9c0b-5e819b502d96](https://chatgpt.com/c/bb3b4447-49da-47e5-9c0b-5e819b502d96))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Menstrual Education: Comprehensive information on menstruation and related topics
+      - Menstrual Cycle Tracking: Effortless tracking with notifications and personalized insights
+      - AI Chatbot: 24/7 assistance with reliable, personalized responses on menstrual health and more
+    image: "![](assets/img/logo_2.png)" # Update the image link if needed
+  - title: "Nike Shoes Store App ([https://github.com/black-coda/nike_shoe_shop](https://github.com/black-coda/nike_shoe_shop))"
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Browse and purchase Nike shoes with ease
+      - OTP verification for secure login
+      - Payment using Paystack
+      - Firebase backend for seamless data management
+      - Search, wishlist, rate, and review features
+      - Push notifications for updates on new arrivals and sales
+    image: "![](https://camo.githubusercontent.com/efc5b20b825751c46699ff0fd6d599111c9910cf888ebedad62c2c9be362701e/68747470733a2f2f6d6f6e6461792d736f6c6f6d6f6e2e6e65746c6966792e6170702f696d672f706f7274332e6a7067)" # Update the image link if needed

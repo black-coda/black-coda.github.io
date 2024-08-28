@@ -2,21 +2,21 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Nigerian National Petroleum Corporation (NNPC)
+    role: Data Analyst Intern
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Developed the "AMT Data Center" project within three months using Power Apps, integrating data across Power BI and Excel
+      - Streamlined data extraction and cleaning processes for over 1000+ records using Excel and VBA, ensuring high data integrity
+      - Automated repetitive tasks using Python and VBA, reducing data processing time by 84%
+      - Created and optimized 2+ Power BI dashboards, enhancing data visualization and business intelligence
+      - Collaborated with a cross-functional team of 7 members, implementing data solutions that boosted operational efficiency
+      - Enhanced data visualization skills using Power BI and learned DAX for actionable data analyses
+    date: Mar. 2023 - Aug. 2023
+  
+  - title: De-Primus
+    role: IT Support Assistant
+    description:
+      - Improved customer experience by assisting with internet usage and troubleshooting
+      - Managed day-to-day operations, including system maintenance and software updates, ensuring smooth cybercafe functionality
+      - Enhanced client relations and retention through proactive customer service and technical support
+    date: Jul. 2017 - Aug. 2019

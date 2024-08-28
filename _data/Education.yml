@@ -2,17 +2,18 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Anchor University, BSc in Mathematics and Computing
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - Developed JF-Solver, a Flutter desktop app for analyzing Linear Multistep Methods (LMM) and solving Ordinary Differential Equations (ODE).
+      - Acquired proficiency in essential tools and software, including Python, Excel, Power BI, R, Maple, and LaTeX.
+      - Gained strong knowledge and expertise in various fields of mathematics.
+    grade: "**Current CGPA**: `3.97/4.00`"
+    date: Oct. 2020 - Jul. 2024
+  - title: Oriwu Model College
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - Completed coursework in subjects such as Physics, Chemistry, Biology, and Mathematics
+      - Conducted experiments and projects, demonstrating strong analytical and problem-solving skills
+      - Participated in science fairs and group studies, enhancing teamwork and communication abilities
+    grade: "Achieved top grades in core Science subjects"
+    date: Sept. 2014 - Aug. 2020
+

@@ -2,12 +2,9 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: Top 50 InterswitchSPAK 2.0 Competition
+    description: Ranked among the top 50 in the InterswitchSPAK 2.0 competition in Nigeria
+    date: 2019
+  - title: National Mathematics Olympiad
+    description: 2nd place in the National Mathematics Olympiad Southwestern Lagos with team
+    date: 2019
