@@ -25,6 +25,12 @@ contents:
       <img width='15' />
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg' height='25' alt='tailwindcss logo' />
     "
+  - title: Databases
+    description: "
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' height='25' alt='mysql logo' />
+      <img width='15' />
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' height='25' alt='postgresql logo' />
+    "
   - title: Tools
     description: "
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg' height='25' alt='androidstudio logo' />
@@ -44,9 +50,4 @@ contents:
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg' height='25' alt='postman logo' />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />    
     "
-  - title: Databases
-    description: "
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' height='25' alt='mysql logo' />
-      <img width='15' />
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' height='25' alt='postgresql logo' />
-    "
+
